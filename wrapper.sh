@@ -2,7 +2,7 @@
 
 UPSTREAM=https://github.com/wuge6/test.git
 BOT_USER=github-actions[bot]
-BOT_EMAIL=41898282+github-actions[bot]@users.noreply.github.com
+BOT_EMAIL=2511052+github-actions[bot]@users.noreply.github.com
 CONFIG_PATH=config
 
 exit_on_error() {
