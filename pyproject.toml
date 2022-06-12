@@ -1,7 +1,7 @@
 [tool.poetry]
-authors = ["vcheckzen"]
+authors = ["wuge6"]
 description = "keep e5 alive"
-name = "keepalivee5"
+name = "test"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
